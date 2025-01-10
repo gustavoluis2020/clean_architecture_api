@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+![Screenshot_1736380227](https://github.com/user-attachments/assets/e7280c9f-1fc9-44ad-86f5-f8cf446fcd29)
+![Screenshot_1736379868](https://github.com/user-attachments/assets/822c80bc-47a3-42fa-9b65-e9bb0cd39c0d)
+![Screenshot_1736379802](https://github.com/user-attachments/assets/92ee0f29-1df4-485b-8423-ec879a8ea11a)
+![Screenshot_1736379815](https://github.com/user-attachments/assets/6aed3bce-c335-4e55-b3a7-de0d17adb5ff)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
