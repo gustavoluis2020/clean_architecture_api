@@ -7,14 +7,3 @@ abstract class Failure implements Exception {
   final Exception? exception;
   final String? message;
 }
-
-// class ServerFailure implements Failure {
-//   @override
-//   final Exception? exception;
-//   @override
-//   final String? message;
-//   const ServerFailure({
-//     this.exception,
-//     this.message,
-//   });
-//}
