@@ -6,9 +6,9 @@ I used Clean Architecture.
 For state management, routes and dependency injections used Getx.
 For Api http client.
 other packages
-dartz
-equatable
-shimmer
+dartz,
+equatable,
+shimmer,
 
 
 ![Screenshot_1736379815](https://github.com/user-attachments/assets/63c9c43f-2d60-4e80-b582-dea2ebd01eee)
